@@ -26,7 +26,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <None Remove="Resources\DebugPhone.ico" />
         <None Remove="Resources\EUC.png" />
         <None Remove="Resources\Keyboard.jpg" />
         <None Remove="Resources\MobilePhone.jpg" />
@@ -35,7 +34,6 @@
 
     <ItemGroup>
         <ApplicationDefinition Remove="App.xaml" />
-        <Content Include="Resources\DebugPhone.ico" />
         <Content Include="Resources\Phone.ico" />
         <Page Include="App.xaml" />
     </ItemGroup>

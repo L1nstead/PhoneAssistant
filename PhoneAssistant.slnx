@@ -24,4 +24,5 @@
   <Project Path="PhoneAssistant.WPF/PhoneAssistant.WPF.csproj" />
   <Project Path="Reconcile.Tests/Reconcile.Tests.csproj" />
   <Project Path="Reconcile/Reconcile.csproj" />
+  <Project Path="tools/ConvertPngToIco/ConvertPngToIco.csproj" />
 </Solution>
